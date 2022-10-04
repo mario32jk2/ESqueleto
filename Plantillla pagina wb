@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calisthenics</title>
+    <link rel="stylesheet" href="estilo de pagina1.css">
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>Una vida saludable</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="Pagina1.html">Inicio</a>
+                </li>
+                <li>
+                    <a href="Pagina1.html">Blog</a>
+                </li>
+                <li>
+                    <a href="Pagina1.html">Programas</a>
+                </li>
+                <li><a href="Pagina1.html">Contactanos</a></li>
+            </ul>
+        </nav>
+        
+     
+        
+     <div class="clearfix"></div>
+     <section id="contenido">
+        
+         <article class="article">
+            <h2>titulo del articulo</h2>
+            <p>Texto del articulo</p>
+         </article>
+       
+         <article class="article">
+            <h2>titulo del articulo</h2>
+            <p>Texto del articulo</p>
+         </article>
+       
+         <article class="article">
+            <h2>titulo del articulo</h2>
+            <p>Texto del articulo</p>
+         </article>
+        
+         <article class="article">
+            <h2>titulo del articulo</h2>
+            <p>Texto del articulo</p>
+         </article>
+
+        </section>
+    
+        <aside>
+         <h2>Barra lateral</h2>
+         <form>
+            <input type="text">
+            <input type="submit" value="Buscar">
+          </form>
+        </aside>
+    
+     <div class="clearfix"></div>
+
+     <footer>
+        Mario Castaño Vizcaino
+     </footer>
+    </div>
+</body>
+</html>
